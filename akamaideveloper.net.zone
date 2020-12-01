@@ -1,4 +1,4 @@
-akamaideveloper.net.	900	IN	SOA	akamaideveloper.net. hostmaster.akamaideveloper.net. 1601611805 900 300 604800 180
+akamaideveloper.net.	900	IN	SOA	akamaideveloper.net. hostmaster.akamaideveloper.net. 1601611806 900 300 604800 180
 akamaideveloper.net.	172800	IN	NS	a9-64.akam.net.
 akamaideveloper.net.	172800	IN	NS	a1-49.akam.net.
 akamaideveloper.net.	172800	IN	NS	a26-66.akam.net.
@@ -6,4 +6,4 @@ akamaideveloper.net.	172800	IN	NS	a7-67.akam.net.
 akamaideveloper.net.	172800	IN	NS	a16-64.akam.net.
 akamaideveloper.net.	172800	IN	NS	a22-65.akam.net.
 javier-gh-action.akamaideveloper.net.	7200	IN	CNAME	bc.akamaideveloper.com.
-
+javier2-gh-action.akamaideveloper.net.	7200	IN	CNAME	bc.akamaideveloper.com.
